@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\ExposeUserControlProperty\bin\Debug\ExposeUserControlProperty.exe.config
+C:\Users\USER\source\repos\ExposeUserControlProperty\bin\Debug\ExposeUserControlProperty.exe
+C:\Users\USER\source\repos\ExposeUserControlProperty\bin\Debug\ExposeUserControlProperty.pdb
+C:\Users\USER\source\repos\ExposeUserControlProperty\obj\Debug\ExposeUserControlProperty.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ExposeUserControlProperty\obj\Debug\ExposeUserControlProperty.Properties.Resources.resources
+C:\Users\USER\source\repos\ExposeUserControlProperty\obj\Debug\ExposeUserControlProperty.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ExposeUserControlProperty\obj\Debug\ExposeUserControlProperty.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ExposeUserControlProperty\obj\Debug\ExposeUserControlProperty.exe
+C:\Users\USER\source\repos\ExposeUserControlProperty\obj\Debug\ExposeUserControlProperty.pdb

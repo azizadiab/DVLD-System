@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DVLD_DataAccess\bin\Release\DVLD_DataAccess.dll
+C:\Users\USER\source\repos\DVLD_DataAccess\bin\Release\DVLD_DataAccess.pdb
+C:\Users\USER\source\repos\DVLD_DataAccess\bin\Release\clsSecurity.dll
+C:\Users\USER\source\repos\DVLD_DataAccess\bin\Release\clsSecurity.pdb
+C:\Users\USER\source\repos\DVLD_DataAccess\obj\Release\DVLD_Dat.AAF49C98.Up2Date
+C:\Users\USER\source\repos\DVLD_DataAccess\obj\Release\DVLD_DataAccess.dll
+C:\Users\USER\source\repos\DVLD_DataAccess\obj\Release\DVLD_DataAccess.pdb

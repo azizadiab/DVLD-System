@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\clsSecurity\bin\Release\clsSecurity.dll
+C:\Users\USER\source\repos\clsSecurity\bin\Release\clsSecurity.pdb
+C:\Users\USER\source\repos\clsSecurity\obj\Release\clsSecurity.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\clsSecurity\obj\Release\clsSecurity.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\clsSecurity\obj\Release\clsSecurity.dll
+C:\Users\USER\source\repos\clsSecurity\obj\Release\clsSecurity.pdb
